@@ -28,6 +28,8 @@ Post processing: This section takes the outputs from the nodule detection and Ta
   
    $ *conda activate snap*
 
+4. Download trained [models](https://drive.google.com/drive/folders/1iS8te56yyi7FsQ40gfFqXmPw56iNB2BS?usp=sharing) and copy them to their respective folders: nodule_detection and tap_root_detection.  
+
 #### Post Processing
 
 5. Install MATLAB 2018a (or newer) with image processing toolbox. 
